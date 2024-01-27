@@ -19,6 +19,7 @@ body{
 	border-radius:20px;
 	border: 2px solid whitesmoke;
 	height:50%;
+	
 }
 .main-article{
 	background-color:white;
@@ -27,6 +28,7 @@ body{
 	border-radius:20px;
 	border: 2px solid whitesmoke;
 	height: 50%;
+	text-align:center;
 }
 .pictorial-news-section{
 	background-color:white;
@@ -34,6 +36,7 @@ body{
 	padding:20px;
 	border-radius:20px;
 	border: 2px solid whitesmoke;
+	text-align:center;
 }
 .pictorial-news-section img{
 	width:100%;
